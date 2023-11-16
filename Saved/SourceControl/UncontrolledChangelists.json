@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bdwol/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/bdwol/Documents/Unreal Projects/WarehouseWreckage/Content/Assets/Maps/Map1.umap"
+			]
+		}
+	]
+}
